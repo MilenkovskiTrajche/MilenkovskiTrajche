@@ -25,22 +25,31 @@
 
 ---
 
-### Featured Projects
+### 💼 Featured Projects
 
-#### **Personal Projects**
+#### 🟢 **Java Chat System** (Personal Project)  
+> 🔗 [Repo](https://github.com/MilenkovskiTrajche/ChatSistem)  
+Java Swing + Sockets real-time chat app with login/registration (CSV-based).  
+Custom-built UI and networking — 100% my own work.
 
-- [**Java Chat System**](https://github.com/MilenkovskiTrajche/ChatSystem)  
-  A complete **chat application** built with Java Networking and Swing.  
-  Includes registration, login, real-time messaging, and CSV-based user storage.  
+#### 🟢 **Restaurant Management (JavaFX)**  
+> 🔗 [Repo](https://github.com/MilenkovskiTrajche/RestaurantAPP)  
+Handles orders, billing, staff, table management. PostgreSQL + JavaFX desktop app.  
+Real-world use case simulation — feature-rich and backend-driven.
 
-- [**Restaurant JavaFX App**](https://github.com/MilenkovskiTrajche/RestaurantApp)  
-  A full-featured desktop application for managing restaurant orders, bills, employees, and tables.  
-  Uses **JavaFX** for the UI and **PostgreSQL** for the backend.
-   > *My proudest solo project – built from scratch with pure JavaFX!*
-
-- [**Spring Boot Online Shop (WIP)**](https://github.com/MilenkovskiTrajche/online-shop-springboot)  
+#### 🟢 **Spring Boot Online Shop (WIP)** 
+  > 🔗 [Repo](https://github.com/MilenkovskiTrajche/Spring_Boot)
   A backend e-commerce project using **Spring Boot**, **Thymeleaf**, and **PostgreSQL**.  
   Handles category filtering, size-specific stock, and dynamic product listings.
+  
+#### 🟡 **DIANS - Location App (Team Project)**  
+> 🔗 [Repo](https://github.com/MilenkovskiTrajche/DAS)  
+University project with 3 teammates. Full-stack app:  
+✅ Java Spring Boot backend | ✅ React frontend | ✅ Python scraping | ✅ Dockerized
+
+#### 🟡 **Finki University Projects (Various)**  
+> 🔗 [Repo](https://github.com/MilenkovskiTrajche/FINKI)  
+Academic repositories for various university subjects:  
 
 ---
 
@@ -52,5 +61,4 @@
 
 ### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/trajce-milenkovski-60567a329)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trajce-milenkovski-60567a329)
