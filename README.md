@@ -1,64 +1,80 @@
-<h1 align="center">Hi there, I'm Trajche Milenkovski</h1>
-<h3 align="center">Backend-Focused Developer | Java Enthusiast | Building Smart Systems</h3>
+<div align="center">
+
+Hi, I’m Trajche Milenkovski 👋
+
+Backend Developer • Java & Spring Enthusiast • AI & Automation Explorer
+
+</div>
+
+⸻
+
+🚀 About Me
+
+* 🎓 Final year Computer Science student
+* 💼 Working at Torvic as a Blazor & .NET CSLA Developer on the Sauper ERP
+* 💼 Former intern at G+D Netcetera
+* 🧠 Passionate about:
+    * Backend architecture
+    * Advanced Spring Boot systems
+    * PostgreSQL & database design
+    * AI integrations & automation
+    * OCR & document processing
+    * Local AI models & embeddings
+* ⚙️ I enjoy building real-world business systems, APIs, and automation tools
+
+⸻
+
+🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,dotnet,cs,react,python,docker,git,linux,idea,vscode" />
+</div>
 
 ---
 
-### About Me
+## 📊 GitHub Statistics
 
-- 🎓 I'm a Computer Science student, currently in my final year — hopeful to graduate soon!
-- 💼 Interning at **G+D Netcetera** for 3 months, contributing to a real-world **ERP system**.
-- 🧠 I love solving problems with code, especially when it comes to **APIs**, **databases**, and **backend logic**.
-- ⚙️ I specialize in **Java**, **Spring Boot**, and **PostgreSQL**.
-- ☕ Clean code, smart architecture, and strong coffee keep me going.
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MilenkovskiTrajche&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MilenkovskiTrajche&layout=compact&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MilenkovskiTrajche&theme=tokyonight&hide_border=true" />
+</p>
 
-### Technologies & Tools
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilenkovskiTrajche&theme=tokyo-night&hide_border=true" />
+</p>
+⸻
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJIDEA-blue?style=for-the-badge&logo=intellij-idea)
+🎯 Current Focus
 
----
+* Advanced Spring Boot Architecture
+* ERP & Business Systems
+* PostgreSQL Optimization
+* AI Automation Tools
+* OCR & Invoice Processing
+* Local AI Infrastructure
+* Clean Backend Design
 
-### 💼 Featured Projects
+⸻
 
-#### 🟢 **Java Chat System** (Personal Project)  
-> 🔗 [Repo](https://github.com/MilenkovskiTrajche/ChatSistem)  
-Java Swing + Sockets real-time chat app with login/registration (CSV-based).  
-Custom-built UI and networking — 100% my own work.
+🌐 Connect With Me
 
-#### 🟢 **Restaurant Management (JavaFX)**  
-> 🔗 [Repo](https://github.com/MilenkovskiTrajche/RestaurantAPP)  
-Handles orders, billing, staff, table management. PostgreSQL + JavaFX desktop app.  
-Real-world use case simulation — feature-rich and backend-driven.
+<div align="center">
+<a href="https://www.linkedin.com/in/trajce-milenkovski-60567a329">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/MilenkovskiTrajche">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
 
-#### 🟢 **Spring Boot Online Shop (WIP)** 
-  > 🔗 [Repo](https://github.com/MilenkovskiTrajche/Spring_Boot)
-  A backend e-commerce project using **Spring Boot**, **Thymeleaf**, and **PostgreSQL**.  
-  Handles category filtering, size-specific stock, and dynamic product listings.
-  
-#### 🟡 **DIANS - Location App (Team Project)**  
-> 🔗 [Repo](https://github.com/MilenkovskiTrajche/DAS)  
-University project with 3 teammates. Full-stack app:  
-✅ Java Spring Boot backend | ✅ React frontend | ✅ Python scraping | ✅ Dockerized
+⸻
 
-#### 🟡 **Finki University Projects (Various)**  
-> 🔗 [Repo](https://github.com/MilenkovskiTrajche/FINKI)  
-Academic repositories for various university subjects:  
+<div align="center">
 
----
+☕ Building backend systems, AI tools, and business automation.
 
-### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=MilenkovskiTrajche&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MilenkovskiTrajche&layout=compact&theme=tokyonight) 
-
----
-
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trajce-milenkovski-60567a329)
+</div
