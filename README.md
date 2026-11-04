@@ -150,8 +150,6 @@ A commercial point-of-sale platform for restaurants, cafés and bars, starting i
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MilenkovskiTrajche&show_icons=true&hide_border=true&bg_color=0d1117&title_color=14B8A6&icon_color=a78bfa&text_color=c9d1d9&ring_color=14B8A6&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MilenkovskiTrajche&layout=compact&hide_border=true&bg_color=0d1117&title_color=14B8A6&text_color=c9d1d9" />
 
 <img src="https://streak-stats.demolab.com?user=MilenkovskiTrajche&hide_border=true&background=0d1117&ring=14B8A6&fire=a78bfa&currStreakLabel=14B8A6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
