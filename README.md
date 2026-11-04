@@ -23,7 +23,7 @@ const trajche = {
   role:      "Software Developer @ Torvic (Sauper)",
   previously:"Intern @ G+D Netcetera",
   studying:  "Computer Science & Engineering (final year) · FINKI, Skopje",
-  based:     "North Macedonia 🇲🇰",
+  based:     "Macedonia 🇲🇰",
   day_job:   [".NET", "Blazor", "CSLA", "PostgreSQL", "enterprise ERP"],
   side_quests: ["restaurant POS", "hospitality websites", "local AI + OCR"],
   philosophy: "clean, scalable systems that survive real customers",
