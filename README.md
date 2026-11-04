@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Trajche%20Milenkovski&fontSize=54&fontColor=ffffff&fontAlignY=38&color=gradient&customColorList=12,20,24&desc=Backend%20Engineer%20%E2%80%A2%20.NET%20%26%20Spring%20Boot%20%E2%80%A2%20AI%20%26%20Automation&descSize=18&descAlignY=60&animation=fadeIn" alt="Trajche Milenkovski" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Trajche%20Milenkovski&fontSize=54&fontColor=ffffff&fontAlignY=38&color=gradient&customColorList=12,20,24&desc=Backend%20Engineer%20%E2%80%A2%20.NET%20and%20Spring%20Boot%20%E2%80%A2%20AI%20and%20Automation&descSize=18&descAlignY=60&animation=fadeIn" alt="Trajche Milenkovski" />
 
 <a href="https://github.com/MilenkovskiTrajche">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=720&height=40&lines=%24+whoami+%E2%86%92+backend+engineer+from+Bitola%2C+MK;%24+building+enterprise+ERP+with+.NET+%2B+Blazor;%24+shipping+a+restaurant+POS+platform+%28offline-first%29;%24+designed+%2B+built+%2B+hosted+paparazziluxury.com;%24+local+AI+%2B+OCR+%2B+document+automation" alt="typing animation" />
